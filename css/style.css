@@ -2,10 +2,11 @@
   border: 0;
   margin: 0;
 }
-
-h2 {
-  color: blue;
-  font-size: 20px;
+.contaner {
+  height: 70px;
+  width: 100%;
+}
+.logo {
   text-align: center;
-  margin-top: 400px;
+  align-items: center;
 }
