@@ -2,8 +2,23 @@
   border: 0;
   margin: 0;
 }
-.nav_style .auto {
+nav .auto {
   width: 50px;
   height: 50px;
   cursor: pointer;
+}
+div .recherche {
+  align-items: flex-end;
+}
+
+/* section */
+section .auto_accueil {
+  width: auto;
+  height: auto;
+}
+.auto_accueil img {
+  width: 90%;
+  height: 500px;
+  align-items: center;
+  text-align: center;
 }
